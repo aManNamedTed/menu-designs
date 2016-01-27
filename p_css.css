@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'frontpage';
+    src: url(simple.ttf);
+}
+
+.container {
+	width:816px;
+	height:1056px;
+	background-color:#CC9966;
+}
+
+.front_title {
+	font-family: 'frontpage';
+	font-size: 55pt;
+	text-align:center;
+	padding-top:150px;
+	color:black;
+}
+
+.front_subtitle {
+	font-family: calibri;
+	font-size: 30pt;
+	text-align:center;
+	color:black;
+}
+
+.section_title {
+	font-family: calibri;
+	font-size:25pt;
+	text-align:center;
+	font-weight:bold;
+}
+
+.half_container {
+	height:43%;
+}
+
+.half {
+	width:48%;
+	padding-left:1%;
+	padding-right:1%;
+	height:auto;
+	float:left;
+}
+.item_title {
+	font-family: calibri;
+	font-size:18pt;
+	text-align:center;
+	font-weight:bold;
+}
+
+.item_desc {
+	font-family: calibri;
+	font-size:13pt;
+	text-align:center;
+}

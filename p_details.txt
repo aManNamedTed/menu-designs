@@ -1,0 +1,13 @@
+LUNCH MENU
+	Paper type: Poster, one sided, or two pages in one slot.
+	Dimensions: Height = 11 inches, Width = 8.5 inches
+	Border: 1/4 inch
+
+
+DINNER MENU
+	Paper type: Poster, one sided, or two pages in one slot.
+	Dimensions: Height = 14 inches, Width = 8.5 inches
+	Border: 1/4 inch
+
+	
+BOOKLET
