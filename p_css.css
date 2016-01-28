@@ -1,16 +1,23 @@
 @font-face {
-    font-family: 'frontpage';
-    src: url(simple.ttf);
+    font-family: 'cursive';
+    src: url(Precious.ttf);
+}
+
+img {
+	width:70px;
+	height:70px;
+	padding-top:30px;
 }
 
 .container {
 	width:816px;
 	height:1056px;
-	background-color:#CC9966;
+	background-color:#B9770D;
+	padding:50px;
 }
 
 .front_title {
-	font-family: 'frontpage';
+	font-family: 'cursive';
 	font-size: 55pt;
 	text-align:center;
 	padding-top:150px;
@@ -18,21 +25,35 @@
 }
 
 .front_subtitle {
-	font-family: calibri;
+	font-family: 'cursive';
 	font-size: 30pt;
 	text-align:center;
 	color:black;
 }
 
+.front_footer {
+	font-size:17pt;
+	width:100%;
+	height:100px;
+	bottom:0;
+	left:0;
+	text-align:center;
+}
+
 .section_title {
-	font-family: calibri;
+	font-family: 'cursive';
 	font-size:25pt;
 	text-align:center;
 	font-weight:bold;
+	color:black;
 }
 
 .half_container {
-	height:43%;
+	height:auto;
+}
+
+.beverage_container {
+	height:25%;
 }
 
 .half {
@@ -42,15 +63,26 @@
 	height:auto;
 	float:left;
 }
+
+.aster {
+	font-family: calibri;
+	font-size:13pt;
+	text-align:center;
+	font-style:italic;
+	color:black;
+}
 .item_title {
 	font-family: calibri;
 	font-size:18pt;
 	text-align:center;
 	font-weight:bold;
+	color:black;
 }
 
 .item_desc {
 	font-family: calibri;
-	font-size:13pt;
-	text-align:center;
+	font-size:16pt;
+	text-align:left;
+	padding-left:25px;
+	color:black;
 }
