@@ -14,6 +14,7 @@ img {
 	padding-top:30px;
 }
 
+
 .container {
 	width:816px;
 	height:1056px;
@@ -28,16 +29,18 @@ img {
 }
 
 .front_title {
-	font-family: 'cursive';
-	font-size: 70pt;
+	font-family: 'Tangerine', 'Cedarville Cursive', cursive;
+	font-size: 120pt;
 	text-align:center;
+	font-weight:bold;
 	padding-top:150px;
 	color:black;
 }
 
 .front_subtitle {
-	font-family: 'cursive';
-	font-size: 35pt;
+	font-family: 'Tangerine', 'Cedarville Cursive', cursive;
+	font-size: 40pt;
+	font-weight:bold;
 	text-align:center;
 	color:black;
 }
@@ -45,15 +48,13 @@ img {
 .front_footer {
 	font-size:17pt;
 	width:100%;
-	bottom:0;
-	left:0;
 	font-family: 'raleway';
 	text-align:center;
 }
 
 .section_title {
-	font-family: 'cursive';
-	font-size:30pt;
+	font-family: 'Tangerine', 'Cedarville Cursive', cursive;
+	font-size:45pt;
 	text-align:center;
 	font-weight:bold;
 	color:black;
